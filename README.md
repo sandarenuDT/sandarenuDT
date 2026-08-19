@@ -1,22 +1,47 @@
 # Hi 👋 I'm Tharuka Sandarenu
 
-<h3 align="center">Computer Engineering Graduate | Full-Stack Software Engineer</h3>
+<h3 align="center">Computer Engineering Graduate | Software Engineer | Full-Stack & Backend Developer</h3>
 
 <p align="center">
-Passionate about building scalable web and mobile applications, cloud-native systems, and AI-driven solutions.
+Passionate about building scalable software systems, cloud-native applications, AI-powered solutions, and modern web platforms.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with experience in modern frontend and backend technologies  
-- 🌐 Strong interest in Web Application and Mobile Application Development  
-- ☁️ Enthusiastic about Cloud Computing, DevOps, and Distributed Systems  
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Automation  
-- ⛓️ Interested in Blockchain and Emerging Technologies  
-- 🚀 Focused on building scalable, maintainable, and production-ready applications  
-- 📚 Continuously improving technical and problem-solving skills through projects and self-learning  
+🎓 Computer Engineering Graduate from the University of Ruhuna
+
+💼 Former Software Engineering Intern at PayMedia Pvt Ltd
+
+🏢 Currently contributing as a Backend Developer at Sawiya Foundation
+
+💻 Experienced in Full-Stack Development using Java Spring Boot, Node.js, React, Next.js, Laravel, and PostgreSQL
+
+☁️ Passionate about Cloud Computing, DevOps, Kubernetes, Docker, CI/CD, and Distributed Systems
+
+🤖 Exploring Artificial Intelligence, Machine Learning, Agentic AI, RAG Systems, and Workflow Automation
+
+🔗 Built Blockchain-based Supply Chain Fraud Detection solutions as part of academic research
+
+🚀 Interested in Backend Engineering, Platform Engineering, DevOps, Cloud Infrastructure, and Scalable System Design
+
+---
+
+## 💼 Professional Experience
+
+### Backend Developer | Sawiya Foundation
+- Developing backend services using Java Spring Boot
+- Designing RESTful APIs and database integrations
+- Working with Docker, Linux, MySQL, and Git workflows
+- Contributing to production-ready backend systems
+
+### Software Engineering Intern | PayMedia Pvt Ltd
+- Worked on the live **DhiraaguPay Banking Application & Admin Portal**
+- Developed features using Laravel, PHP, React, Next.js, and MySQL
+- Built and integrated REST APIs
+- Collaborated in Agile development environments
+- Worked on production-grade financial software systems
 
 ---
 
